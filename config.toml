@@ -1,0 +1,12 @@
+[collect]
+host = "localhost" # should be same host.
+port = "8086"
+user = "root"
+password = "root"
+
+[output]
+host = "localhost"
+port = "8086"
+user = "root"
+password = "root"
+database = "sys"
